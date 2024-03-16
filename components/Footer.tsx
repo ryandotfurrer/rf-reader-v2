@@ -27,7 +27,7 @@ const Footer = () => {
                 rel="noopener noreferrer"
               >
                 <svg
-                  className="w-6 h-fit"
+                  className="w-6 h-auto"
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"
@@ -50,7 +50,7 @@ const Footer = () => {
                 rel="noopener noreferrer"
               >
                 <svg
-                  className="w-6 h-fit"
+                  className="w-6 h-auto"
                   width="256"
                   height="256"
                   viewBox="0 0 256 256"
@@ -66,7 +66,7 @@ const Footer = () => {
             <li>
               <a href="mailto:ryandotfurrer@gmail.com">
                 <svg
-                  className="w-6 h-fit"
+                  className="w-6 h-auto"
                   width="256"
                   height="256"
                   viewBox="0 0 256 256"

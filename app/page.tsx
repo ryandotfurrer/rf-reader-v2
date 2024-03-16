@@ -9,7 +9,7 @@ export default function Home() {
         <h2>Features</h2>
         <aside className="flex gap-2 items-center">
           <svg
-            className="w-10 h-fit"
+            className="w-10 h-auto"
             width="256"
             height="256"
             viewBox="0 0 256 256"
@@ -31,7 +31,7 @@ export default function Home() {
         </p>
         <aside className="flex gap-2 items-center">
           <svg
-            className="w-10 h-fit"
+            className="w-10 h-auto"
             width="256"
             height="256"
             viewBox="0 0 256 256"
@@ -55,7 +55,7 @@ export default function Home() {
         </p>
         <aside className="flex gap-2 items-center">
           <svg
-            className="w-10 h-fit"
+            className="w-10 h-auto"
             width="256"
             height="256"
             viewBox="0 0 256 256"

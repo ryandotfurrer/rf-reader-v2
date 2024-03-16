@@ -8,7 +8,7 @@ const Navbar = () => {
         <li className="mr-auto">
           <a href="/">
             <svg
-              className="w-16 h-fit"
+              className="w-16 h-auto"
               width="256"
               height="256"
               viewBox="0 0 256 256"
