@@ -22,10 +22,13 @@ const Navbar = () => {
           </a>
         </li>
         <li>
-          <a href="/">Home</a>
+          <a href="/" className="hover:underline">
+            Home
+          </a>
         </li>
         <li>
           <a
+            className="hover:underline"
             href="https://github.com/ryandotfurrer/rf-reader-v2"
             target="_blank"
             rel="noopener noreferrer"
@@ -34,7 +37,9 @@ const Navbar = () => {
           </a>
         </li>
         <li>
-          <a href="mailto:ryandotfurrer@gmail.com">Contact</a>
+          <a className="hover:underline" href="mailto:ryandotfurrer@gmail.com">
+            Contact
+          </a>
         </li>
       </ul>
     </nav>
